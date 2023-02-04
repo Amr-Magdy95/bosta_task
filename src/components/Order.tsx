@@ -185,7 +185,7 @@ li{
     padding-left: 20px;
     margin-left: 10px;
     &:last-child{
-        border: 0px;
+        
         padding-bottom: 0;
     }
     &:before{
